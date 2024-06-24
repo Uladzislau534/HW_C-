@@ -1,0 +1,16 @@
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\obj\Debug\net5.0\hw1.csproj.AssemblyReference.cache
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\obj\Debug\net5.0\hw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\obj\Debug\net5.0\hw1.AssemblyInfoInputs.cache
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\obj\Debug\net5.0\hw1.AssemblyInfo.cs
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\obj\Debug\net5.0\hw1.csproj.CoreCompileInputs.cache
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\bin\Debug\net5.0\hw1.exe
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\bin\Debug\net5.0\hw1.deps.json
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\bin\Debug\net5.0\hw1.runtimeconfig.json
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\bin\Debug\net5.0\hw1.runtimeconfig.dev.json
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\bin\Debug\net5.0\hw1.dll
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\bin\Debug\net5.0\ref\hw1.dll
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\bin\Debug\net5.0\hw1.pdb
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\obj\Debug\net5.0\hw1.dll
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\obj\Debug\net5.0\ref\hw1.dll
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\obj\Debug\net5.0\hw1.pdb
+C:\Users\vladislav\Desktop\GB.RU\hw_C#\hw1\obj\Debug\net5.0\hw1.genruntimeconfig.cache
