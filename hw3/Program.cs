@@ -1,12 +1,23 @@
 ﻿using System;
 
-namespace hw3
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        int[] array = { 1, 2, 3, 4, 5 };
+
+        Console.WriteLine("Массив о обратном порядке:");
+        PrintArrayInReverse(array, array.Length - 1);
+    }
+
+    static void PrintArrayInReverse(int[] array, int index)
+    {
+        if (index < 0)
         {
-            Console.WriteLine("Hello World!");
+            return;
         }
+
+        Console.WriteLine(array[index]);
+        PrintArrayInReverse(array, index - 1);
     }
 }
