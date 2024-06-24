@@ -1,12 +1,34 @@
 ﻿using System;
 
-namespace hw2
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+
+
+        Console.WriteLine(Ackermann(-1, 2));
+
+    }
+
+    static int Ackermann(int m, int n)
+    {
+       
+        if (m == 0)
         {
-            Console.WriteLine("Hello World!");
+            return n + 1;
+        }
+        else if (m > 0 && n == 0)
+        {
+            return Ackermann(m - 1, 1);
+        }
+        else if (m > 0 && n > 0)
+        {
+            return Ackermann(m - 1, Ackermann(m, n - 1));
+        }
+        else
+        {
+
+            throw new ArgumentException("Числа должны быть полажительные  .");
         }
     }
 }
